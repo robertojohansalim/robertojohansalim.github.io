@@ -1,0 +1,48 @@
+*{
+    font-size: 1.1rem;
+}
+.container{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.profile{
+    /* background-color: blue; */
+     background-color: rgba(19, 86, 173, 1) ;
+     vertical-align: middle;
+}
+
+.profile-pic-container{
+    overflow: hidden;
+    /* height: 100vh; */
+    text-align: center;
+}
+
+.profile-pic{
+    /* margin-top: 1rem;
+    margin-bottom: 1rem; */
+    width: 70%;
+    max-width: 15rem;
+    border-radius: 50%;
+    border: white solid 5px;
+}
+
+.profile-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: black 1px 1px;
+}
+
+.profile-description{
+}
+
+.aboutme{
+    text-align: center;
+}
+
+.project{
+    text-align: center;
+    background-color: #e8e8e8;
+}
